@@ -1,0 +1,41 @@
+# ENCORE – Portfolio Website
+
+## About
+ENCORE is a portfolio website for the Event Management Committee of the ENTC Department at Trinity Academy of Engineering. It showcases the committee's team members, events, activities, and contact information through a modern and responsive design.
+
+## Features
+- Modern dark-themed UI with purple accents
+- About section
+- Events showcase
+- Team members portfolio
+- Contact form
+- Responsive layout
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Structure
+```text
+ENCORE/
+├── index.html
+├── style.css
+├── js/
+│   └── script.js
+└── Assets/
+    └── imges/
+```
+
+## How to Run
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## Purpose
+This project was created to present the ENCORE committee, its team, and its activities in a clean and professional portfolio format.
+
+---
+**Developed for:** Trinity Academy of Engineering  
+**Department:** ENTC  
+**Project Name:** ENCORE
